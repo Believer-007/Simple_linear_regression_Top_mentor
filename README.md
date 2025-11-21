@@ -24,8 +24,8 @@ helps forecast delivery time efficiently.
 
   Feature         Description
   --------------- -------------------------------
-  Sorting Time    Time taken to sort items
-  Delivery Time   Time taken for final delivery
+  Sorting Time  :  Time taken to sort items
+  Delivery Time  : Time taken for final delivery
 
 ###  **Insights**
 
